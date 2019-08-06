@@ -19,3 +19,5 @@ def password():
         password()
 
 main()
+
+#make better algo later
