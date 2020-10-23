@@ -5,7 +5,7 @@ def main():
         else:
             print("The email you entered is invalid, please try again.")
             main()
-
+ 
 def password():
     password = input()
     special = "~!@#$%^&*()?"
