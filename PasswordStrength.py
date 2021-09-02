@@ -20,4 +20,4 @@ def password():
 
 main()
 
-#make better algo later
+#Need to make changes, not sure if this is actually going to generate a strong password.
